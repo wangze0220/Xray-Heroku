@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/AkashiCoin/Xray-Heroku/main/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/AkashiCoin/Xray-Heroku",
-    "repository": "https://github.com/AkashiCoin/Xray-Heroku",
+    "website": "https://github.com/wangze0220/Xray-Heroku",
+    "repository": "https://github.com/wangze0220/Xray-Heroku",
     "stack": "container"
 }
